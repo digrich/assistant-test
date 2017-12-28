@@ -1,0 +1,22 @@
+{
+  "name": "assistant-test",
+  "version": "1.0.0",
+  "description": "Testing Google Assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digrich/assistant-test.git"
+  },
+  "author": "Digvijay Richhariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digrich/assistant-test/issues"
+  },
+  "homepage": "https://github.com/digrich/assistant-test#readme",
+  "dependencies": {
+    "actions-on-google": "^1.7.0"
+  }
+}

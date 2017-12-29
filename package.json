@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/digrich/assistant-test#readme",
   "dependencies": {
-    "actions-on-google": "^1.7.0"
+    "actions-on-google": "^1.7.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "http": "0.0.0"
   }
 }
